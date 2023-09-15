@@ -19,4 +19,21 @@ El formato HEIC (High Efficiency Image Format) es un formato de imagen moderno y
 1. Coloca tus archivos HEIC en la carpeta `input`.
 2. Ejecuta el script con el siguiente comando:
 
+3. Los archivos JPEG convertidos se guardarán en la carpeta `output`.
+
+## Contribución
+
+Si deseas contribuir a este proyecto, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Clona tu repositorio fork en tu máquina local.
+3. Crea una nueva rama para tu contribución: `git checkout -b mi-contribucion`.
+4. Realiza tus cambios y commitea: `git commit -m "Añade mi contribución"`.
+5. Haz un push de tus cambios: `git push origin mi-contribucion`.
+6. Crea una solicitud de extracción en GitHub.
+
+
+
+
+
 
